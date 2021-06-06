@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   clock: ^1.0.0
-  x509: ^0.1.0
+  x509: ^0.2.1
   jose: ^0.3.2
   dotenv: ^2.0.0
   openid_client: ^0.4.0
