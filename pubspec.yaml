@@ -12,7 +12,10 @@ dependencies:
   jose: ^0.3.2
   dotenv: ^3.0.0
   openid_client: ^0.4.0
-  firebase_dart: 1.0.0-dev.33
+  firebase_dart:
+    git:
+      url: git://github.com/pregamefantasy/firebase_dart.git
+      path: packages/firebase_dart
   path: ^1.6.4
   meta: ^1.1.6
   http: ^0.13.0
